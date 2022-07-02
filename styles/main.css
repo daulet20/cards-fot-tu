@@ -1,0 +1,49 @@
+.main-container
+{
+    max-width: 1230px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.main-info_block
+{
+
+}
+
+.main-type-block
+{
+
+}
+
+.main-info_title
+{
+    text-align: center;
+}
+
+.main-info_wrapper
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.main-info_cards
+{
+    flex-basis: 25%;
+    background: #fff;
+}
+
+.main-info_cards_title
+{
+
+}
+
+.main-info_cards_body
+{
+
+}
+
+.main-info_cards_text
+{
+
+}
